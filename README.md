@@ -1,6 +1,6 @@
 # Cruise Ships
 
-I completed this guided project using JavaScript as a part of Command Shift bootcamp. I wrote the unit tests using Jest.
+I completed this project using JavaScript for Command Shift bootcamp. I wrote the unit tests using Jest.
 
 Features:
 - Users can create a series of ports, add them to an itinerary and create a cruise ship.
@@ -11,7 +11,7 @@ Features:
 ### Clone this repository
 
 - Create a fork of this repo.
-- Clone your copy of the repo using the command: `git clone git@github.com:*your-github-username*/*repo-name*.git`
+- Copy the fork’s git address and clone to your machine using `git clone`.
 
 ### Install the project dependencies
 
